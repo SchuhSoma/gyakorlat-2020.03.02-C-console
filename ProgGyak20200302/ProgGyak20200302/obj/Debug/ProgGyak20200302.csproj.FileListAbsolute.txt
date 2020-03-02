@@ -1,0 +1,7 @@
+C:\Users\schuhs\Documents\ProgGyak20200302\ProgGyak20200302\bin\Debug\ProgGyak20200302.exe.config
+C:\Users\schuhs\Documents\ProgGyak20200302\ProgGyak20200302\bin\Debug\ProgGyak20200302.exe
+C:\Users\schuhs\Documents\ProgGyak20200302\ProgGyak20200302\bin\Debug\ProgGyak20200302.pdb
+C:\Users\schuhs\Documents\ProgGyak20200302\ProgGyak20200302\obj\Debug\ProgGyak20200302.csprojAssemblyReference.cache
+C:\Users\schuhs\Documents\ProgGyak20200302\ProgGyak20200302\obj\Debug\ProgGyak20200302.csproj.CoreCompileInputs.cache
+C:\Users\schuhs\Documents\ProgGyak20200302\ProgGyak20200302\obj\Debug\ProgGyak20200302.exe
+C:\Users\schuhs\Documents\ProgGyak20200302\ProgGyak20200302\obj\Debug\ProgGyak20200302.pdb
